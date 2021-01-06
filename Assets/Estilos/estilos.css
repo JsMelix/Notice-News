@@ -80,20 +80,20 @@ h3{
 
 /* Info */ 
 
-.infos{
+.beneficios{
   padding: 10%;
   display: flex;
 }
 
-.info{
+.beneficio{
   text-align: center;
   padding: 20px;
 }
 
-.info img{
+.beneficio img{
   max-height: 100px
 }
 
-.text_info{
+.text_beneficio{
   text-align: justify;
 }
