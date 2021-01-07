@@ -1,16 +1,20 @@
 @media (max-width: 600px) {
 
-  .products{
+  .blacktopline{
     display: inherit;
     height: auto;
   }
-  .product{
+  .namenews{
     margin-top: auto;
   }
-  .main_section{
+  .datanews{
     padding: 4%;
   }
-  .beneficios, .mentions{
+  .info_title, .mention{
+    display: inherit;
+  }
+
+  .content_mention{
     display: inherit;
   }
 
