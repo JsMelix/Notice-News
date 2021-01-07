@@ -120,10 +120,7 @@ h2.mention_title{
     /*width: auto;*/
     font-size: 12px;
   }
-  .blacktopline {
-    margin: -2em 0.5em 0.5em;
-    padding: 1em;
-  }
+ 
   .namenews {
     height: auto;
     padding: 1.5em;
@@ -155,6 +152,12 @@ h2.mention_title{
     display: block;
   }
   .datacontenido{
+    height: auto;
+    padding: 1.5em;
+    text-align: center;
+    display: block;
+  }
+  .blacktopline{
     height: auto;
     padding: 1.5em;
     text-align: center;
