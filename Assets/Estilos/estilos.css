@@ -114,6 +114,7 @@ h2.mention_title{
   text-align: center;
 }
 
+/*responsive*/
 @media screen and (max-width: 480px) {
   .project-details {
     /*width: auto;*/
@@ -148,6 +149,12 @@ h2.mention_title{
     display: block;
   }
   .body{
+    height: auto;
+    padding: 1.5em;
+    text-align: center;
+    display: block;
+  }
+  .datacontenido{
     height: auto;
     padding: 1.5em;
     text-align: center;
